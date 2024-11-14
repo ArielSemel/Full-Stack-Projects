@@ -11,7 +11,7 @@ each project includes a frontend and backend repository, demonstrating my experi
 - **Database**: MySQL
   
 ### Auction Project
-**Description**: A RESTful API for managing online auctions with real-time bidding
+A RESTful API for managing online auctions with real-time bidding
 - **Frontend**: [Link to frontend repo](https://github.com/Full-Stack-ArielSemel/Auction-Project-Frontend)
 - **Backend**: [Link to backend repo](https://github.com/Full-Stack-ArielSemel/Auction-Project-Backend)
 
@@ -19,7 +19,7 @@ each project includes a frontend and backend repository, demonstrating my experi
 ![image](https://github.com/user-attachments/assets/801529ad-0de0-4ea6-99a7-2927b9c2526d)
 
 ### Football Project
-**Description**: A RESTful API for managing football games, real-time scores and standings
+A RESTful API for managing football games, real-time scores and standings
 - **Frontend**: [Link to frontend repo](https://github.com/Full-Stack-ArielSemel/football-project-frontend)
 - **Backend**: [Link to backend repo](https://github.com/Full-Stack-ArielSemel/football-project-backend)
 
