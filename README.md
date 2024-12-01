@@ -24,5 +24,6 @@ A RESTful API for managing football games, real-time scores and standings
 - **Backend**: [Link to backend repo](https://github.com/Full-Stack-ArielSemel/football-project-backend)
 
 
-![image](https://github.com/user-attachments/assets/2446022f-dad7-4c0e-9192-041a523ef283)
+![image](https://github.com/user-attachments/assets/606869ca-d190-402f-a723-2f8d4e56a120)
+
 
