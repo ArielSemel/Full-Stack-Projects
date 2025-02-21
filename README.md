@@ -6,9 +6,14 @@ each project includes a frontend and backend repository, demonstrating my experi
 ## Projects Overview
 
 ### Tech Stack
-- **Frontend**: React, Material UI
+- **Frontend**: ReactJS, Material UI
 - **Backend**: Java Spring Boot
 - **Database**: MySQL
+- **AWS**
+- **JMeter**
+- **Junit5**
+- **Maven**
+
   
 ### Auction Project
 A RESTful API for managing online auctions with real-time bidding
@@ -19,7 +24,7 @@ A RESTful API for managing online auctions with real-time bidding
 ![image](https://github.com/user-attachments/assets/801529ad-0de0-4ea6-99a7-2927b9c2526d)
 
 ### Football Project
-A RESTful API for managing football games, real-time scores and standings
+A RESTful API for managing football match games, real-time scores and standings
 - **Frontend**: [Link to frontend repo](https://github.com/Full-Stack-ArielSemel/football-project-frontend)
 - **Backend**: [Link to backend repo](https://github.com/Full-Stack-ArielSemel/football-project-backend)
 
